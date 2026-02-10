@@ -1,0 +1,11 @@
+ticket,category,priority
+Internet not working,Technical,High
+Payment failed,Billing,High
+Password reset,Account,Medium
+App crash,Technical,High
+Refund pending,Billing,Medium
+Login issue,Account,High
+Slow network,Technical,Medium
+Wrong bill,Billing,High
+Profile update,Account,Low
+Subscription help,Billing,Medium
